@@ -4,4 +4,19 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="SpringBootELKApplication"/>
+			<item value="com.sample"/>
+		</list>
+		<list key="name">
+			<item value="SpringBootELKApplication"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringBootELKApplication"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
 </section>
